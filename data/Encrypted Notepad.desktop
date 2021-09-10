@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=0.1
 Name=Encrypted Notepad
-Icon=encrypted_notepad_icon
+Icon=/usr/share/icons/hicolor/48x48/apps/encrypted_notepad_icon.png
 Type=Application
 GenericName=Encrypted Notepad
 Comment=Simple notepad that can encrypt/decrypt text files.
