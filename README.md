@@ -4,7 +4,7 @@ Simple notepad that can encrypt/decrypt text files.
 ![Example 1](https://github.com/Qyutou/Encrypted_Notepad/blob/edd69637fd2a2e355cbb2892db2460e402ea3236/example/encrypted_notepad_example.png)
 ## Installation
 ```bash
-$ git clone https://github.com/Qyutou/encrypted-notepad.git
+$ git clone https://github.com/Qyutou/Encrypted_Notepad.git
 $ cd Encrypted_Notepad 
 $ sudo make install 
 ```
