@@ -274,6 +274,14 @@ def calculate_geometry(root, resolution):
     return "%dx%d+%d+%d" % (width, height, x, y)
 
 
+def initialize_key_binds(root, text_area, key_binds):
+    key_binds_edited = ["<" + key_bind + ">" for key_bind in key_binds]
+    root.bind(key_binds_edited[0], lambda key: menu_new_file(root, text_area))
+    root.bind(key_binds_edited[1], lambda key: menu_open_file(root, text_area))
+    root.bind(key_binds_edited[2], lambda key: menu_save_file(root, text_area))
+    root.bind(key_binds_edited[3], lambda key: menu_save_file_as(root, text_area))
+
+
 def main():
     # get data from config
     colors = config_handler_module.read_colors_section()
@@ -291,6 +299,9 @@ def main():
 
     # add top menu
     top_menu = add_top_menu(root, text_area, colors, general, key_binds)
+
+    # initialize key binds
+    initialize_key_binds(root, text_area, key_binds)
 
     # get file from arguments (not necessary)
     open_file = read_argv()
