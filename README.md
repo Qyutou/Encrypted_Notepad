@@ -6,7 +6,7 @@ Simple notepad that can encrypt/decrypt text files.
 ```bash
 $ git clone https://github.com/Qyutou/Encrypted_Notepad.git
 $ cd Encrypted_Notepad 
-$ sudo make install 
+$ make install 
 ```
 `make install` also copy .desktop file and icon from data folder to /usr/share/ folder.
 Instead of `make install` the `python3 setup.py install` or `pip3 install .` can be used to install application.
