@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="34.56pt"
+    height="34.56pt"
+    viewBox="0 0 34.56 34.56">
+<defs/>
+<g id="group0" transform="matrix(1.4418184822242 0 0 1.4418184822242 7.41401492908392 1.91155436015314)" fill="none">
+  <path id="shape0" transform="matrix(0.999999960263572 0 0 0.999999960263572 0 1.45125016585054)" fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="square" stroke-linejoin="bevel" krita:marker-fill-method="auto" d="M0.0484254 0L14.3544 0.0159801L14.4112 19.44L0 19.44Z"/>
+  <path id="shape1" transform="matrix(0.999999960263572 0 0 0.999999960263572 2.86874973368572 7.21124895201344)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M0 1.45404e-07L8.6625 0"/>
+  <path id="shape01" transform="matrix(0.999999942533367 0 0 0.999999942533367 2.8799995034313 11.5199995616268)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L8.65125 -1.26982e-15"/>
+  <path id="shape01" transform="matrix(0.999999942533367 0 0 0.999999942533367 2.91374972969319 15.8512483308466)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L8.62875 0.01125"/>
+  <path id="shape02" transform="matrix(0 0.999999942533367 -0.999999942533367 0 3.61124941592154 8.88178419700125e-16)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M0 2.86416e-07L3.61125 0"/>
+  <path id="shape03" transform="matrix(0 0.999999972864421 -0.999999972864421 0 10.8112500349143 0.0112500142625356)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L3.6 1.39037e-06"/>
+  <path id="shape04" transform="matrix(0 0.999999972864421 -0.999999972864421 0 7.21125019490046 0.02250001380638)" fill="#000000" fill-rule="evenodd" stroke="#000000" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M0 7.04124e-15L3.5775 7.10543e-15"/>
+ </g>
+</svg>

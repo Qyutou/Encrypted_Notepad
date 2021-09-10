@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=Encrypted Notepad
+Icon=encrypted_notepad_icon
+Type=Application
+GenericName=Encrypted Notepad
+Comment=Simple notepad that can encrypt/decrypt text files.
+Exec=encrypted_notepad
+Terminal=false
