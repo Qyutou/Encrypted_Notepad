@@ -9,7 +9,7 @@ $ sudo make install
 `make install` also copy .desktop file and icon from data folder to /usr/share/ folder.
 Instead of `make install` the `python3 setup.py install` or `pip3 install .` can be used to install application.
 ## Usage
-If application were downloaded using `make install` then you can start application from both menu and command-line.
+If the application was downloaded using `make install` then you can start application from both menu and command-line.
 #### Start from command-line:
 ```bash
 # To open Encrypted_Notepad
